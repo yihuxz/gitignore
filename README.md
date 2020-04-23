@@ -1,4 +1,4 @@
-# 添加mine目录，用来保存自己常用的ignore模板文件
+# 添加mine目录，用来保存我常用的ignore模板文件
 
 # A collection of `.gitignore` templates
 
