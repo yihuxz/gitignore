@@ -1,3 +1,5 @@
+# 添加mine目录，用来保存自己常用的ignore模板文件
+
 # A collection of `.gitignore` templates
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
