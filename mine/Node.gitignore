@@ -54,6 +54,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# 微信小程序
+
+miniprogram_npm/
+
 # 我是分隔线
 
 # Logs
