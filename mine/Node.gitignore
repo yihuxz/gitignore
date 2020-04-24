@@ -58,6 +58,10 @@ Temporary Items
 
 miniprogram_npm/
 
+# idea项目
+
+.idea/
+
 # 我是分隔线
 
 # Logs
