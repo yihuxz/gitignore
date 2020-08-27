@@ -1,0 +1,14 @@
+# 根据我的使用习惯，不断完善的ignore文件
+
+# 系统
+.DS_Store
+
+# Idea
+.idea/
+*.iml
+
+# node & 小程序
+node_modules/
+miniprogram_npm/
+package-lock.json
+
